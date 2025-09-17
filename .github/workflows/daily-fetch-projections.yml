@@ -26,3 +26,16 @@ jobs:
     - name: Run fetch_projections
       run: |
         python -m api_functions.fetch_projections
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "Daniel"
+        git config --global user.email "beachysdan@gmail.com"
+
+    - name: Commit and push changes
+      run: |
+        git add data/test_json_results/win_projections.json
+        git commit -m "Update win projections"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
