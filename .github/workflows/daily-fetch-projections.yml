@@ -34,7 +34,7 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git add data/test_json_results/win_projections.json
+        git add json_results/win_projections.json
         git commit -m "Update win projections"
         git push
       env:
