@@ -1,6 +1,8 @@
-import os
-import subprocess
 import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+import subprocess
 import unittest
 from api_functions.fetch_teams import fetch_team_data
 

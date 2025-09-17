@@ -1,9 +1,12 @@
-# Ignore Python cache files and folders
+# Ignore Python cache files
 __pycache__/
 *.pyc
 
-# Ignore JSON test results
-test_json_results/
+# Ignore virtual environments
+.venv/
+
+# Ignore test results
+data/test_json_results/
 
 # Ignore environment files
 .env
