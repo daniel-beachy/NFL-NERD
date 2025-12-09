@@ -16100,5 +16100,199 @@
       "projectedWins": 10.685,
       "projectedLosses": 6.305
     }
+  },
+  "2025-12-09": {
+    "1": {
+      "chanceToWinThisWeek": 0.37081,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 5.665,
+      "projectedLosses": 11.321
+    },
+    "2": {
+      "chanceToWinThisWeek": 0.54582,
+      "chanceToWinDivision": 0.195,
+      "projectedWins": 11.652,
+      "projectedLosses": 5.336
+    },
+    "3": {
+      "chanceToWinThisWeek": 0.72577,
+      "chanceToWinDivision": 0.208,
+      "projectedWins": 10.867,
+      "projectedLosses": 6.12
+    },
+    "4": {
+      "chanceToWinThisWeek": 0.47723000000000004,
+      "chanceToWinDivision": 0.032,
+      "projectedWins": 6.46,
+      "projectedLosses": 10.528
+    },
+    "5": {
+      "chanceToWinThisWeek": 0.27642999999999995,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 4.08,
+      "projectedLosses": 12.909
+    },
+    "6": {
+      "chanceToWinThisWeek": 0.61554,
+      "chanceToWinDivision": 0.088,
+      "projectedWins": 8.125,
+      "projectedLosses": 7.857
+    },
+    "7": {
+      "chanceToWinThisWeek": 0.47053999999999996,
+      "chanceToWinDivision": 0.845,
+      "projectedWins": 12.943,
+      "projectedLosses": 4.041
+    },
+    "8": {
+      "chanceToWinThisWeek": 0.42168000000000005,
+      "chanceToWinDivision": 0.093,
+      "projectedWins": 10.345,
+      "projectedLosses": 6.642
+    },
+    "9": {
+      "chanceToWinThisWeek": 0.53321,
+      "chanceToWinDivision": 0.699,
+      "projectedWins": 11.392,
+      "projectedLosses": 4.593
+    },
+    "10": {
+      "chanceToWinThisWeek": 0.17135,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 3.019,
+      "projectedLosses": 13.97
+    },
+    "11": {
+      "chanceToWinThisWeek": 0.28647,
+      "chanceToWinDivision": 0.048,
+      "projectedWins": 9.421,
+      "projectedLosses": 7.567
+    },
+    "12": {
+      "chanceToWinThisWeek": 0.65339,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 8.866,
+      "projectedLosses": 8.124
+    },
+    "13": {
+      "chanceToWinThisWeek": 0.23292999999999997,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 3.111,
+      "projectedLosses": 13.88
+    },
+    "14": {
+      "chanceToWinThisWeek": 0.58168,
+      "chanceToWinDivision": 0.58,
+      "projectedWins": 12.638,
+      "projectedLosses": 4.351
+    },
+    "15": {
+      "chanceToWinThisWeek": 0.39959,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 7.663,
+      "projectedLosses": 9.322
+    },
+    "16": {
+      "chanceToWinThisWeek": 0.38754,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 6.51,
+      "projectedLosses": 10.477
+    },
+    "17": {
+      "chanceToWinThisWeek": 0.45782,
+      "chanceToWinDivision": 0.805,
+      "projectedWins": 13.179,
+      "projectedLosses": 3.807
+    },
+    "18": {
+      "chanceToWinThisWeek": 0.46919999999999995,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 5.007,
+      "projectedLosses": 11.98
+    },
+    "19": {
+      "chanceToWinThisWeek": 0.53454,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 4.168,
+      "projectedLosses": 12.817
+    },
+    "20": {
+      "chanceToWinThisWeek": 0.23560999999999999,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 4.133,
+      "projectedLosses": 12.857
+    },
+    "21": {
+      "chanceToWinThisWeek": 0.76893,
+      "chanceToWinDivision": 0.912,
+      "projectedWins": 10.479,
+      "projectedLosses": 6.507
+    },
+    "22": {
+      "chanceToWinThisWeek": 0.28647,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 4.382,
+      "projectedLosses": 12.608
+    },
+    "23": {
+      "chanceToWinThisWeek": 0.6035900000000001,
+      "chanceToWinDivision": 0.671,
+      "projectedWins": 9.031,
+      "projectedLosses": 7.956
+    },
+    "24": {
+      "chanceToWinThisWeek": 0.34939,
+      "chanceToWinDivision": 0.155,
+      "projectedWins": 10.779,
+      "projectedLosses": 6.205
+    },
+    "25": {
+      "chanceToWinThisWeek": 0.83002,
+      "chanceToWinDivision": 0.158,
+      "projectedWins": 11.563,
+      "projectedLosses": 5.424
+    },
+    "26": {
+      "chanceToWinThisWeek": 0.7158100000000001,
+      "chanceToWinDivision": 0.263,
+      "projectedWins": 12.348,
+      "projectedLosses": 4.641
+    },
+    "27": {
+      "chanceToWinThisWeek": 0.6321399999999999,
+      "chanceToWinDivision": 0.703,
+      "projectedWins": 9.345,
+      "projectedLosses": 7.639
+    },
+    "28": {
+      "chanceToWinThisWeek": 0.46919999999999995,
+      "chanceToWinDivision": 0.0,
+      "projectedWins": 4.682,
+      "projectedLosses": 12.302
+    },
+    "29": {
+      "chanceToWinThisWeek": 0.53454,
+      "chanceToWinDivision": 0.297,
+      "projectedWins": 8.655,
+      "projectedLosses": 8.332
+    },
+    "30": {
+      "chanceToWinThisWeek": 0.76627,
+      "chanceToWinDivision": 0.624,
+      "projectedWins": 11.532,
+      "projectedLosses": 5.456
+    },
+    "33": {
+      "chanceToWinThisWeek": 0.52657,
+      "chanceToWinDivision": 0.297,
+      "projectedWins": 8.086,
+      "projectedLosses": 8.898
+    },
+    "34": {
+      "chanceToWinThisWeek": 0.7158100000000001,
+      "chanceToWinDivision": 0.329,
+      "projectedWins": 10.664,
+      "projectedLosses": 6.325
+    }
   }
 }
